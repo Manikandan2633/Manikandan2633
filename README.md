@@ -1,5 +1,4 @@
 
-
 <!--
 **Manikandan2633/Manikandan2633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +22,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **linkedin.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
